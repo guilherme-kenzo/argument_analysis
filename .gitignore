@@ -1,4 +1,4 @@
 *.ipynb
 *.txt
-*__*
+__pycache__/
 *~
